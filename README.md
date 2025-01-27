@@ -28,12 +28,12 @@ Inside `index.html`:
 - [X] Inside your unordered list, create 3 `<li>` tags to list your hobbies.
 - [X] After your unordered list, create a `<h2>` tag with the content of `My Goals for 2025`.
 - [X] Create an ordered list underneath your `<h2>`.
-- [X] Inside your ordered list, create 3 `<li>` tags to list your goals.
+- [O] Inside your ordered list, create 3 `<li>` tags to list your goals.
 
 
 
 ### Tips
-- Remember to update the closing tags when changing an element.
+- 
 - Push a commit for each task completed. Include a meaningfull commit message.
 - Before the above, update the readme task list to track your progress. To do this, enter x between the brackets.
 - Get used to using your browser's developer tools now. For now, become familiar with: 
